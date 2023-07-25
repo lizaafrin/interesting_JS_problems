@@ -1,3 +1,5 @@
+// JS Problem 5: 
+
 const calculator = (num1, num2, operator) => {
     if (operator == '+') {
         result = num1 + num2;
