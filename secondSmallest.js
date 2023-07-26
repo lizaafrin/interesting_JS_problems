@@ -1,3 +1,5 @@
+// JS Problem 8:
+
 const findSecondSmallest=(array)=>{
     const ascendingArray = array.sort((a,b)=>(a-b));
     console.log('Second smallest number is ' + ascendingArray[1]);

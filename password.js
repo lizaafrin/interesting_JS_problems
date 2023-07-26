@@ -1,3 +1,5 @@
+// JS Problem 6:
+
 const generatePass = (length) => {
     if (length < 5) {
         return "Error: Password length should be at least 5 characters.";
