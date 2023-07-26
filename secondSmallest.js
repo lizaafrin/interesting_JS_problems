@@ -1,4 +1,4 @@
-// JS Problem 8:
+// JS Problem 8: Implement a JavaScript function to find the second smallest element in an array of numbers. The function should return the second smallest number.
 
 const findSecondSmallest=(array)=>{
     const ascendingArray = array.sort((a,b)=>(a-b));

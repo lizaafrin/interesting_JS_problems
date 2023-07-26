@@ -1,4 +1,4 @@
-// JS Problem 2: 
+// JS Problem 2: Create a function that takes an array of numbers as input and returns the sum of all positive numbers in the array. 
 
 const sumOfPositives = (arr) => {
     let sum = 0;
